@@ -68,8 +68,8 @@ const cardData = [
         imageUrl: "img/assets/portfolio.PNG",
         alt: "portfolio",
         technologies: ["img/assets/html.png", "img/assets/css.png", "img/assets/javascript.png"],
-        linkCode: "#",
-        linkLiveProject: "#"
+        linkCode: "https://github.com/alfredou/portfolio",
+        linkLiveProject: "https://alfredou.github.io/portfolio/"
     },  
     {
       title: "Quiz ❓",
