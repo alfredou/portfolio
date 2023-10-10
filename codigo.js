@@ -55,7 +55,7 @@ const cardData = [
     },
     {
       title: "Bookstore 📚",
-      description: "A bookstore is an online platform that allows users buy books this website provides an interface for searching and buying books using stripe it is still in development",
+      description: "A bookstore is an online platform that allows users buy books this website provides an interface for searching and buying books using stripe.",
       imageUrl: "img/assets/Bookstore.PNG",
       alt: "bookstore",
       technologies: ["img/assets/react.png", "img/assets/express-original.png", "img/assets/formik.png", "img/assets/stripe.png", "img/assets/mongodb.png"],
