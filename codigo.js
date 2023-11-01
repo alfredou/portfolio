@@ -60,7 +60,7 @@ const cardData = [
       alt: "bookstore",
       technologies: ["img/assets/react.png", "img/assets/express-original.png", "img/assets/formik.png", "img/assets/stripe.png", "img/assets/mongodb.png"],
       linkCode: "https://github.com/alfredou/bookstore/tree/main",
-      linkLiveProject: "https://bookstore-gamma-eosin.vercel.app/"
+      linkLiveProject: "https://bookstore-azure-gamma.vercel.app/"
     },
     {
         title: "Portfolio 🗃️",
